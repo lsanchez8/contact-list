@@ -1,0 +1,51 @@
+.scrollable-col {
+  overflow-y: auto;
+  height: 100vh;
+  padding-right: 0;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.icon-position {
+  position: absolute;
+  left: 80%;
+  bottom: 5%;
+  font-size: 25px;
+  background-color: rgb(231, 231, 231);
+  padding: 10px;
+  border-radius: 50%;
+}
+.icon-position:hover {
+  cursor: pointer;
+}
+
+h2 {
+  color: #211747;
+}
+h2:hover {
+  cursor: pointer;
+}
+.secondary-col {
+  /* background: #d6d6d6; */
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.img-main {
+  width: 50%;
+  /* height: 50%; */
+  max-height: 100vh;
+}
+
+.list-group-item-action {
+  border: 0;
+}
+
+.form {
+  padding: 5%;
+}
+
+.details-screen {
+  background-color: #fafafa;
+}

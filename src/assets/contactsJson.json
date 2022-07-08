@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "id": "1cca27da-ca13-43ae-43hb-40868fad0661",
+      "firstName": "Jane",
+      "lastName": "Doe",
+      "email": "Jane@github-example.com",
+      "city": "Santo Domingo",
+      "phones": ["809-123-4444", "809-333-4444"]
+    },
+    {
+      "id": "1hba27da-ca13-43ae-43hb-40868fad0661",
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "John@github-example.com",
+      "city": "Santo Domingo",
+      "phones": ["809-123-4444", "809-333-4444"]
+    },
+    {
+      "id": "1cca27da-je14-43ae-43hb-40868fad0661",
+      "firstName": "Bob",
+      "lastName": "Perez",
+      "email": "Bob@github-example.com",
+      "city": "Santo Domingo",
+      "phones": ["809-123-4444", "809-333-4444"]
+    }
+  ]
+}
