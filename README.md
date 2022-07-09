@@ -1,8 +1,15 @@
-# TestApp
+# Angular Sample Contact List App
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.3.
 
+## Dependencies
+1. Angular
+2. Package manager like NPM or yarn
+3. VS Code or similar
+
 ## Development server
+
+Before running the server first start off by doing a `npm install`
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
